@@ -1,0 +1,5 @@
+node_modules
+fastf1-cache
+*.csv
+*.json
+.DS_Store
